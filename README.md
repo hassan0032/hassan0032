@@ -20,7 +20,7 @@
 <a href="https://code.visualstudio.com/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/VSCODE.png" alt="VS Code"></a>
 <br />
 <a href="https://wordpress.org/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/WORDPRESS.svg" alt="WordPress"></a>
-<span></span>
+<span style="margin-left: 10px;"></span>
 <a href="https://elementor.com/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/Elementor.png" alt="Elementor" height="40" width="40"></a>
 <h1>Contact Me</h1>
 <a href="https://www.linkedin.com/in/hassan-ali-wp/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/LINKEDIN.png" alt="LinkedIn"></a>
