@@ -12,7 +12,7 @@
 <a href="https://react.dev/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/REACT.png" alt="React JS"></a>
 <a href="https://nextjs.org/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/NEXT.png" alt="Next JS"></a>
 <a href="https://typescriptlang.org/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/TS.png" alt="TS"></a>
-<a href="[https://https://storybook.js.org/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/STORYBOOK.svg" alt="Story Book"></a>
+<a href="https://https://storybook.js.org/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/STORYBOOK.svg" alt="Story Book" height="48" width="48"></a>
 <h1>Contact Me</h1>
 <a href="https://www.linkedin.com/in/hassan-ali-wp/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/LINKEDIN.png" alt="LinkedIn"></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hassanalibhatti648@gmail.com"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/GMAIL.png" alt="Gmail" width="45" height="40"></a>
