@@ -4,4 +4,4 @@
 <h1>Checkout My Portfolio</h1>
 <h1>Technologies and Tools I'm Familiar With</h1>
 <h1>Contact Me</h1>
-![LINKEDIN](https://raw.github.com/user-attachments/assets/4e8bede7-aeb6-46ac-84a1-50fe8114ecef)
+<img src="https://raw.githubusercontent.com/user-attachments/assets/4e8bede7-aeb6-46ac-84a1-50fe8114ecef" width="100" alt="LinkedIn">
