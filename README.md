@@ -18,6 +18,8 @@
 <a href="https://supabase.com/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/supabase.png" alt="Supabase" height="48" width="48"></a>
 <a href="https://vercel.com/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/VERCEL.svg" alt="Vercel" height="48" width="48"></a>
 <a href="https://code.visualstudio.com/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/VSCODE.png" alt="VS Code"></a>
+<br />
+<a href="https://code.visualstudio.com/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/VSCODE.png" alt="VS Code"></a>
 <h1>Contact Me</h1>
 <a href="https://www.linkedin.com/in/hassan-ali-wp/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/LINKEDIN.png" alt="LinkedIn"></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hassanalibhatti648@gmail.com"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/GMAIL.png" alt="Gmail" width="45" height="40"></a>
