@@ -19,11 +19,9 @@
 <a href="https://supabase.com/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/supabase.png" alt="Supabase" height="48" width="48"></a>
 <a href="https://vercel.com/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/VERCEL.svg" alt="Vercel" height="48" width="48"></a>
 <a href="https://code.visualstudio.com/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/VSCODE.png" alt="VS Code"></a>
-<be>
-<div style="display: flex; gap: 10px;">
+<br>
 <a href="https://wordpress.org/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/WORDPRESS.svg" alt="WordPress"></a>
-<a href="https://elementor.com/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/Elementor.png" alt="Elementor" height="45" width="45"></a>
-</div>
+<a href="https://elementor.com/" style="margin-left: 10px;"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/Elementor.png" alt="Elementor" height="45" width="45"></a>
 <br>
 <a href="https://stripe.com/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/STRIPE.png" alt="Stripe"></a>
 <a href="https://www.paypal.com/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/PAYPAL.png" alt="Pay Pal"></a>
