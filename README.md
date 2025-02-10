@@ -5,6 +5,8 @@
 <h1>Technologies and Tools I'm Familiar With</h1>
 <a href="https://html.com/html5/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/HTML.png" alt="HTML"></a>
 <a href="https://web.dev/learn/css"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/CSS.png" alt="CSS"></a>
+<a href="https://getbootstrap.com/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/BOOTSTRAP.png" alt="Bootstrap"></a>
+<a href="https://tailwindcss.com/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/TAILWIND.png" alt="Tailwind"></a>
 <h1>Contact Me</h1>
 <a href="https://www.linkedin.com/in/hassan-ali-wp/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/LINKEDIN.png" alt="LinkedIn"></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hassanalibhatti648@gmail.com"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/GMAIL.png" alt="Gmail" width="45" height="40"></a>
