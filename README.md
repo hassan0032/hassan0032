@@ -4,3 +4,4 @@
 <h1>Checkout My Portfolio</h1>
 <h1>Technologies and Tools I'm Familiar With</h1>
 <h1>Contact Me</h1>
+![LINKEDIN](https://github.com/user-attachments/assets/a888e46c-e785-4483-9c91-37c5c6c4e78f)
