@@ -3,6 +3,8 @@
 <p>As a <b>Web Developer</b>, I leverage my diverse skill set to design and develop <b>high-performance, user-friendly websites</b> that drive business success and empower users with seamless digital experiences.</p>
 <h1>Checkout My Portfolio</h1>
 <h1>Technologies and Tools I'm Familiar With</h1>
+<a href="https://html.com/html5/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/HTML.png" alt="HTML"></a>
+
 <h1>Contact Me</h1>
 <a href="https://www.linkedin.com/in/hassan-ali-wp/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/LINKEDIN.png" alt="LinkedIn"></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hassanalibhatti648@gmail.com"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/GMAIL.png" alt="Gmail" width="45" height="40"></a>
