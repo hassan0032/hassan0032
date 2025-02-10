@@ -7,6 +7,7 @@
 <a href="https://web.dev/learn/css"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/CSS.png" alt="CSS"></a>
 <a href="https://getbootstrap.com/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/BOOTSTRAP.png" alt="Bootstrap"></a>
 <a href="https://tailwindcss.com/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/TAILWIND.png" alt="Tailwind"></a>
+<a href="https://mui.com/material-ui/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/MATERIALUI.png" alt="Material UI"></a>
 <a href="https://www.javascript.com/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/JS.png" alt="JS"></a>
 <a href="https://react.dev/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/REACT.png" alt="React JS"></a>
 <a href="https://nextjs.org/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/NEXT.png" alt="Next JS"></a>
