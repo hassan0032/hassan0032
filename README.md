@@ -4,5 +4,5 @@
 <h1>Checkout My Portfolio</h1>
 <h1>Technologies and Tools I'm Familiar With</h1>
 <h1>Contact Me</h1>
-![LinkedIn Logo](images/LINKEDIN.png)
+<img src="https://github.com/hassan0032/hassan0032/blob/main/images/LINKEDIN.png" alt="LinkedIn">
 
