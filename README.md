@@ -21,7 +21,7 @@
 <a href="https://code.visualstudio.com/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/VSCODE.png" alt="VS Code"></a>
 <br>
 <a href="https://wordpress.org/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/WORDPRESS.svg" alt="WordPress"></a>
-<a href="https://elementor.com/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/Elementor.png" alt="Elementor" height="40" width="40"></a>
+<a href="https://elementor.com/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/Elementor.png" alt="Elementor" height="45" width="45"></a>
 <br>
 <a href="https://stripe.com/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/STRIPE.png" alt="Stripe"></a>
 <a href="https://www.paypal.com/"><img src="https://github.com/hassan0032/hassan0032/blob/main/images/PAYPAL.png" alt="Pay Pal"></a>
