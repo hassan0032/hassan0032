@@ -1,5 +1,21 @@
 # 💫 About Me:
-🔭 I’m currently working on advanced React, React Native and Next.js projects, including dynamic interfaces, form workflows, and image catalog features.<br><br>👯 I’m looking to collaborate on web development projects — especially React, React Native, Next.js, Tailwind CSS, and freelance client work.<br><br>🤝 I’m looking for help with scaling projects, real-world backend integrations, and client acquisition strategies outside typical freelance platforms.<br><br>🌱 I’m currently learning deeper full-stack patterns, automation tools, and AI integrations for web apps.<br><br>💬 Ask me about React, Next.js, Tailwind CSS, Supabase, Firebase, modern frontend workflows, or building business-ready web apps.<br><br>⚡ Fun fact: I’m balancing active freelance growth while leveling up in full-stack development — blending creativity with scalable code.
+🔭 I’m currently working on
+Designing and building modern, scalable web and mobile applications with a strong focus on performance, usability, and clean architecture.
+
+👯 I’m looking to collaborate on
+Innovative web and mobile projects, open-source initiatives, and product-driven ideas that aim to solve real-world problems.
+
+🤝 I’m looking for help with
+Improving system scalability, adopting best engineering practices, and building sustainable solutions for long-term growth.
+
+🌱 I’m currently learning
+Advanced full-stack development concepts, automation workflows, and emerging technologies that enhance product efficiency and user experience.
+
+💬 Ask me about
+Frontend and full-stack development, modern UI systems, application architecture, and building production-ready digital products.
+
+⚡ Fun fact
+I enjoy turning complex ideas into simple, maintainable solutions and continuously refining both code quality and user experience.
 
 
 ## 🌐 Socials:
